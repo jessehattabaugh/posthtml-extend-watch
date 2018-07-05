@@ -1,0 +1,19 @@
+{
+	"author": "Jesse Hattabaugh<posthtml-extend-watch@jessehattabaugh.com>",
+	"bugs": {
+		"url": "https://github.com/jessehattabaugh/posthtml-extend-watch/issues"
+	},
+	"description": "testing file watching with parceljs and posthtml-extend",
+	"homepage": "https://github.com/jessehattabaugh/posthtml-extend-watch#readme",
+	"license": "ISC",
+	"main": "index.js",
+	"name": "posthtml-extend-watch",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jessehattabaugh/posthtml-extend-watch.git"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"version": "0.0.0"
+}
